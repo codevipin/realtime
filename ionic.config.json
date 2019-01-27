@@ -1,5 +1,7 @@
 {
   "name": "realtime",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
